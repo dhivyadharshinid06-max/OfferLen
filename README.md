@@ -50,7 +50,7 @@ A modern job and internship management platform built with Laravel.
 ## Author
 
 **Dhivya Darshini D**
-BCA Student | Full Stack Developer (Learning)
+BCA Student | Aspiring Data Analyst (Learning)
 
 
 
